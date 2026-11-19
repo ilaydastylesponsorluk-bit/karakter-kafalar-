@@ -1,8 +1,6 @@
 {
-  "parent": "minecraft:block/orientable",
+  "parent": "minecraft:block/cube_all",
   "textures": {
-    "front": "karakterkafalari:block/mavi_kiz_kafa_front",
-    "side": "karakterkafalari:block/mavi_kiz_kafa_side",
-    "top": "karakterkafalari:block/mavi_kiz_kafa_top"
+    "all": "karakterkafalari:block/mavi_kiz_kafa"
   }
 }
