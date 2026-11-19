@@ -1,11 +1,11 @@
-bayrak_1f3c1|Chequered Flag
-bayrak_1f6a9|Triangular Flag On Post
-bayrak_1f38c|Crossed Flags
-bayrak_1f3f4|Waving Black Flag
-bayrak_1f3f3_fe0f|White Flag
-bayrak_1f3f3_fe0f_200d_1f308|Rainbow Flag
-bayrak_1f3f3_fe0f_200d_26a7_fe0f|Transgender Flag
-bayrak_1f3f4_200d_2620_fe0f|Pirate Flag
+bayrak_1f3c1|Damalı bayrak
+bayrak_1f6a9|Üçgen bayrak
+bayrak_1f38c|Çapraz bayraklar
+bayrak_1f3f4|Siyah bayrak
+bayrak_1f3f3_fe0f|Beyaz bayrak
+bayrak_1f3f3_fe0f_200d_1f308|Gökkuşağı bayrağı
+bayrak_1f3f3_fe0f_200d_26a7_fe0f|Transgender bayrağı
+bayrak_1f3f4_200d_2620_fe0f|Korsan bayrağı
 bayrak_1f1e6_1f1e8|Ascension Adası Bayrağı
 bayrak_1f1e6_1f1e9|Andorra Bayrağı
 bayrak_1f1e6_1f1ea|Birleşik Arap Emirlikleri Bayrağı
@@ -265,6 +265,6 @@ bayrak_1f1fe_1f1f9|Mayotte Bayrağı
 bayrak_1f1ff_1f1e6|Güney Afrika Bayrağı
 bayrak_1f1ff_1f1f2|Zambiya Bayrağı
 bayrak_1f1ff_1f1fc|Zimbabve Bayrağı
-bayrak_1f3f4_e0067_e0062_e0065_e006e_e0067_e007f|England Flag
-bayrak_1f3f4_e0067_e0062_e0073_e0063_e0074_e007f|Scotland Flag
-bayrak_1f3f4_e0067_e0062_e0077_e006c_e0073_e007f|Wales Flag
+bayrak_1f3f4_e0067_e0062_e0065_e006e_e0067_e007f|Bayrak: İngiltere
+bayrak_1f3f4_e0067_e0062_e0073_e0063_e0074_e007f|Bayrak: İskoçya
+bayrak_1f3f4_e0067_e0062_e0077_e006c_e0073_e007f|Bayrak: Galler
