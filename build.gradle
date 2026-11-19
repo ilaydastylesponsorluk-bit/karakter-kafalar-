@@ -21,3 +21,48 @@ neoForge {
 }
 
 tasks.withType(JavaCompile).configureEach { options.encoding = 'UTF-8' }
+
+// ---- Harf / Emoji / Bayrak bloklarını çarşaf görsellerden üret ----
+def uretilenKlasor = layout.buildDirectory.dir('generated/sus-bloklar')
+def sheetKlasor = file('src/main/sheets')
+
+tasks.register('susBloklariUret') {
+    inputs.dir(sheetKlasor)
+    outputs.dir(uretilenKlasor)
+    doLast {
+        def kok = uretilenKlasor.get().asFile
+        kok.deleteDir()
+        def assets = new File(kok, 'assets/karakterkafalari')
+        def data = new File(kok, 'data/karakterkafalari')
+        def hucre = 64
+        ['harfler', 'emojiler', 'bayraklar'].each { grup ->
+            def resim = javax.imageio.ImageIO.read(new File(sheetKlasor, grup + '.png'))
+            def sutun = (int) (resim.width / hucre)
+            def satirlar = new File(sheetKlasor, grup + '.txt').readLines('UTF-8').findAll { it.trim() }
+            satirlar.eachWithIndex { satir, i ->
+                def id = satir.split('\\|')[0]
+                def parca = resim.getSubimage((i % sutun) * hucre, ((int) (i / sutun)) * hucre, hucre, hucre)
+                def tex = new File(assets, "textures/block/${id}.png")
+                tex.parentFile.mkdirs()
+                javax.imageio.ImageIO.write(parca, 'png', tex)
+                def yaz = { String yol, String icerik ->
+                    def f = new File(kok, yol)
+                    f.parentFile.mkdirs()
+                    f.setText(icerik, 'UTF-8')
+                }
+                def renderTipi = grup == 'emojiler' ? ',"render_type":"minecraft:cutout"' : ''
+                yaz("assets/karakterkafalari/blockstates/${id}.json", """{"variants":{"":{"model":"karakterkafalari:block/${id}"}}}""")
+                yaz("assets/karakterkafalari/models/block/${id}.json", """{"parent":"minecraft:block/cube_all","textures":{"all":"karakterkafalari:block/${id}"}${renderTipi}}""")
+                yaz("assets/karakterkafalari/models/item/${id}.json", """{"parent":"karakterkafalari:block/${id}"}""")
+                yaz("data/karakterkafalari/loot_table/blocks/${id}.json", """{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"karakterkafalari:${id}"}],"conditions":[{"condition":"minecraft:survives_explosion"}]}]}""")
+            }
+            // Java tarafı blokları bu listeden kaydeder
+            def liste = new File(kok, "karakterkafalari_listeler/${grup}.txt")
+            liste.parentFile.mkdirs()
+            liste.setText(satirlar.join('\n'), 'UTF-8')
+        }
+    }
+}
+
+sourceSets.main.resources.srcDir(uretilenKlasor)
+tasks.named('processResources') { dependsOn 'susBloklariUret' }

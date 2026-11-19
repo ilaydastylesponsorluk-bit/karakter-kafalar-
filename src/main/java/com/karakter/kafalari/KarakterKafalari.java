@@ -89,6 +89,7 @@ public class KarakterKafalari {
             .build());
 
     public KarakterKafalari(IEventBus modBus) {
+        SusBloklari.yukle(); // harf, emoji ve bayrak bloklarını kaydet
         BLOCKS.register(modBus);
         ITEMS.register(modBus);
         ENTITIES.register(modBus);

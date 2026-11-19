@@ -1,0 +1,270 @@
+bayrak_1f3c1|Chequered Flag
+bayrak_1f6a9|Triangular Flag On Post
+bayrak_1f38c|Crossed Flags
+bayrak_1f3f4|Waving Black Flag
+bayrak_1f3f3_fe0f|White Flag
+bayrak_1f3f3_fe0f_200d_1f308|Rainbow Flag
+bayrak_1f3f3_fe0f_200d_26a7_fe0f|Transgender Flag
+bayrak_1f3f4_200d_2620_fe0f|Pirate Flag
+bayrak_1f1e6_1f1e8|Ascension Adası Bayrağı
+bayrak_1f1e6_1f1e9|Andorra Bayrağı
+bayrak_1f1e6_1f1ea|Birleşik Arap Emirlikleri Bayrağı
+bayrak_1f1e6_1f1eb|Afganistan Bayrağı
+bayrak_1f1e6_1f1ec|Antigua ve Barbuda Bayrağı
+bayrak_1f1e6_1f1ee|Anguilla Bayrağı
+bayrak_1f1e6_1f1f1|Arnavutluk Bayrağı
+bayrak_1f1e6_1f1f2|Ermenistan Bayrağı
+bayrak_1f1e6_1f1f4|Angola Bayrağı
+bayrak_1f1e6_1f1f6|Antarktika Bayrağı
+bayrak_1f1e6_1f1f7|Arjantin Bayrağı
+bayrak_1f1e6_1f1f8|Amerikan Samoası Bayrağı
+bayrak_1f1e6_1f1f9|Avusturya Bayrağı
+bayrak_1f1e6_1f1fa|Avustralya Bayrağı
+bayrak_1f1e6_1f1fc|Aruba Bayrağı
+bayrak_1f1e6_1f1fd|Åland Adaları Bayrağı
+bayrak_1f1e6_1f1ff|Azerbaycan Bayrağı
+bayrak_1f1e7_1f1e6|Bosna-Hersek Bayrağı
+bayrak_1f1e7_1f1e7|Barbados Bayrağı
+bayrak_1f1e7_1f1e9|Bangladeş Bayrağı
+bayrak_1f1e7_1f1ea|Belçika Bayrağı
+bayrak_1f1e7_1f1eb|Burkina Faso Bayrağı
+bayrak_1f1e7_1f1ec|Bulgaristan Bayrağı
+bayrak_1f1e7_1f1ed|Bahreyn Bayrağı
+bayrak_1f1e7_1f1ee|Burundi Bayrağı
+bayrak_1f1e7_1f1ef|Benin Bayrağı
+bayrak_1f1e7_1f1f1|Saint Barthelemy Bayrağı
+bayrak_1f1e7_1f1f2|Bermuda Bayrağı
+bayrak_1f1e7_1f1f3|Brunei Bayrağı
+bayrak_1f1e7_1f1f4|Bolivya Bayrağı
+bayrak_1f1e7_1f1f6|Karayip Hollandası Bayrağı
+bayrak_1f1e7_1f1f7|Brezilya Bayrağı
+bayrak_1f1e7_1f1f8|Bahamalar Bayrağı
+bayrak_1f1e7_1f1f9|Butan Bayrağı
+bayrak_1f1e7_1f1fb|Bouvet Adası Bayrağı
+bayrak_1f1e7_1f1fc|Botsvana Bayrağı
+bayrak_1f1e7_1f1fe|Belarus Bayrağı
+bayrak_1f1e7_1f1ff|Belize Bayrağı
+bayrak_1f1e8_1f1e6|Kanada Bayrağı
+bayrak_1f1e8_1f1e8|Cocos (Keeling) Adaları Bayrağı
+bayrak_1f1e8_1f1e9|Kongo - Kinşasa Bayrağı
+bayrak_1f1e8_1f1eb|Orta Afrika Cumhuriyeti Bayrağı
+bayrak_1f1e8_1f1ec|Kongo - Brazavil Bayrağı
+bayrak_1f1e8_1f1ed|İsviçre Bayrağı
+bayrak_1f1e8_1f1ee|Côte d’Ivoire Bayrağı
+bayrak_1f1e8_1f1f0|Cook Adaları Bayrağı
+bayrak_1f1e8_1f1f1|Şili Bayrağı
+bayrak_1f1e8_1f1f2|Kamerun Bayrağı
+bayrak_1f1e8_1f1f3|Çin Bayrağı
+bayrak_1f1e8_1f1f4|Kolombiya Bayrağı
+bayrak_1f1e8_1f1f5|Clipperton Adası Bayrağı
+bayrak_1f1e8_1f1f6|Sark Bayrağı
+bayrak_1f1e8_1f1f7|Kosta Rika Bayrağı
+bayrak_1f1e8_1f1fa|Küba Bayrağı
+bayrak_1f1e8_1f1fb|Cabo Verde Bayrağı
+bayrak_1f1e8_1f1fc|Curaçao Bayrağı
+bayrak_1f1e8_1f1fd|Christmas Adası Bayrağı
+bayrak_1f1e8_1f1fe|Kıbrıs Bayrağı
+bayrak_1f1e8_1f1ff|Çekya Bayrağı
+bayrak_1f1e9_1f1ea|Almanya Bayrağı
+bayrak_1f1e9_1f1ec|Diego Garcia Bayrağı
+bayrak_1f1e9_1f1ef|Cibuti Bayrağı
+bayrak_1f1e9_1f1f0|Danimarka Bayrağı
+bayrak_1f1e9_1f1f2|Dominika Bayrağı
+bayrak_1f1e9_1f1f4|Dominik Cumhuriyeti Bayrağı
+bayrak_1f1e9_1f1ff|Cezayir Bayrağı
+bayrak_1f1ea_1f1e6|Ceuta ve Melilla Bayrağı
+bayrak_1f1ea_1f1e8|Ekvador Bayrağı
+bayrak_1f1ea_1f1ea|Estonya Bayrağı
+bayrak_1f1ea_1f1ec|Mısır Bayrağı
+bayrak_1f1ea_1f1ed|Batı Sahra Bayrağı
+bayrak_1f1ea_1f1f7|Eritre Bayrağı
+bayrak_1f1ea_1f1f8|İspanya Bayrağı
+bayrak_1f1ea_1f1f9|Etiyopya Bayrağı
+bayrak_1f1ea_1f1fa|Avrupa Birliği Bayrağı
+bayrak_1f1eb_1f1ee|Finlandiya Bayrağı
+bayrak_1f1eb_1f1ef|Fiji Bayrağı
+bayrak_1f1eb_1f1f0|Falkland Adaları Bayrağı
+bayrak_1f1eb_1f1f2|Mikronezya Bayrağı
+bayrak_1f1eb_1f1f4|Faroe Adaları Bayrağı
+bayrak_1f1eb_1f1f7|Fransa Bayrağı
+bayrak_1f1ec_1f1e6|Gabon Bayrağı
+bayrak_1f1ec_1f1e7|Birleşik Krallık Bayrağı
+bayrak_1f1ec_1f1e9|Grenada Bayrağı
+bayrak_1f1ec_1f1ea|Gürcistan Bayrağı
+bayrak_1f1ec_1f1eb|Fransız Guyanası Bayrağı
+bayrak_1f1ec_1f1ec|Guernsey Bayrağı
+bayrak_1f1ec_1f1ed|Gana Bayrağı
+bayrak_1f1ec_1f1ee|Cebelitarık Bayrağı
+bayrak_1f1ec_1f1f1|Grönland Bayrağı
+bayrak_1f1ec_1f1f2|Gambiya Bayrağı
+bayrak_1f1ec_1f1f3|Gine Bayrağı
+bayrak_1f1ec_1f1f5|Guadeloupe Bayrağı
+bayrak_1f1ec_1f1f6|Ekvator Ginesi Bayrağı
+bayrak_1f1ec_1f1f7|Yunanistan Bayrağı
+bayrak_1f1ec_1f1f8|Güney Georgia ve Güney Sandwich Adaları Bayrağı
+bayrak_1f1ec_1f1f9|Guatemala Bayrağı
+bayrak_1f1ec_1f1fa|Guam Bayrağı
+bayrak_1f1ec_1f1fc|Gine-Bissau Bayrağı
+bayrak_1f1ec_1f1fe|Guyana Bayrağı
+bayrak_1f1ed_1f1f0|Çin Hong Kong ÖİB Bayrağı
+bayrak_1f1ed_1f1f2|Heard Adası ve McDonald Adaları Bayrağı
+bayrak_1f1ed_1f1f3|Honduras Bayrağı
+bayrak_1f1ed_1f1f7|Hırvatistan Bayrağı
+bayrak_1f1ed_1f1f9|Haiti Bayrağı
+bayrak_1f1ed_1f1fa|Macaristan Bayrağı
+bayrak_1f1ee_1f1e8|Kanarya Adaları Bayrağı
+bayrak_1f1ee_1f1e9|Endonezya Bayrağı
+bayrak_1f1ee_1f1ea|İrlanda Bayrağı
+bayrak_1f1ee_1f1f1|İsrail Bayrağı
+bayrak_1f1ee_1f1f2|Man Adası Bayrağı
+bayrak_1f1ee_1f1f3|Hindistan Bayrağı
+bayrak_1f1ee_1f1f4|Britanya Hint Okyanusu Toprakları Bayrağı
+bayrak_1f1ee_1f1f6|Irak Bayrağı
+bayrak_1f1ee_1f1f7|İran Bayrağı
+bayrak_1f1ee_1f1f8|İzlanda Bayrağı
+bayrak_1f1ee_1f1f9|İtalya Bayrağı
+bayrak_1f1ef_1f1ea|Jersey Bayrağı
+bayrak_1f1ef_1f1f2|Jamaika Bayrağı
+bayrak_1f1ef_1f1f4|Ürdün Bayrağı
+bayrak_1f1ef_1f1f5|Japonya Bayrağı
+bayrak_1f1f0_1f1ea|Kenya Bayrağı
+bayrak_1f1f0_1f1ec|Kırgızistan Bayrağı
+bayrak_1f1f0_1f1ed|Kamboçya Bayrağı
+bayrak_1f1f0_1f1ee|Kiribati Bayrağı
+bayrak_1f1f0_1f1f2|Komorlar Bayrağı
+bayrak_1f1f0_1f1f3|Saint Kitts ve Nevis Bayrağı
+bayrak_1f1f0_1f1f5|Kuzey Kore Bayrağı
+bayrak_1f1f0_1f1f7|Güney Kore Bayrağı
+bayrak_1f1f0_1f1fc|Kuveyt Bayrağı
+bayrak_1f1f0_1f1fe|Cayman Adaları Bayrağı
+bayrak_1f1f0_1f1ff|Kazakistan Bayrağı
+bayrak_1f1f1_1f1e6|Laos Bayrağı
+bayrak_1f1f1_1f1e7|Lübnan Bayrağı
+bayrak_1f1f1_1f1e8|Saint Lucia Bayrağı
+bayrak_1f1f1_1f1ee|Liechtenstein Bayrağı
+bayrak_1f1f1_1f1f0|Sri Lanka Bayrağı
+bayrak_1f1f1_1f1f7|Liberya Bayrağı
+bayrak_1f1f1_1f1f8|Lesotho Bayrağı
+bayrak_1f1f1_1f1f9|Litvanya Bayrağı
+bayrak_1f1f1_1f1fa|Lüksemburg Bayrağı
+bayrak_1f1f1_1f1fb|Letonya Bayrağı
+bayrak_1f1f1_1f1fe|Libya Bayrağı
+bayrak_1f1f2_1f1e6|Fas Bayrağı
+bayrak_1f1f2_1f1e8|Monako Bayrağı
+bayrak_1f1f2_1f1e9|Moldova Bayrağı
+bayrak_1f1f2_1f1ea|Karadağ Bayrağı
+bayrak_1f1f2_1f1eb|Saint Martin Bayrağı
+bayrak_1f1f2_1f1ec|Madagaskar Bayrağı
+bayrak_1f1f2_1f1ed|Marshall Adaları Bayrağı
+bayrak_1f1f2_1f1f0|Kuzey Makedonya Bayrağı
+bayrak_1f1f2_1f1f1|Mali Bayrağı
+bayrak_1f1f2_1f1f2|Myanmar (Burma) Bayrağı
+bayrak_1f1f2_1f1f3|Moğolistan Bayrağı
+bayrak_1f1f2_1f1f4|Çin Makao ÖİB Bayrağı
+bayrak_1f1f2_1f1f5|Kuzey Mariana Adaları Bayrağı
+bayrak_1f1f2_1f1f6|Martinik Bayrağı
+bayrak_1f1f2_1f1f7|Moritanya Bayrağı
+bayrak_1f1f2_1f1f8|Montserrat Bayrağı
+bayrak_1f1f2_1f1f9|Malta Bayrağı
+bayrak_1f1f2_1f1fa|Mauritius Bayrağı
+bayrak_1f1f2_1f1fb|Maldivler Bayrağı
+bayrak_1f1f2_1f1fc|Malavi Bayrağı
+bayrak_1f1f2_1f1fd|Meksika Bayrağı
+bayrak_1f1f2_1f1fe|Malezya Bayrağı
+bayrak_1f1f2_1f1ff|Mozambik Bayrağı
+bayrak_1f1f3_1f1e6|Namibya Bayrağı
+bayrak_1f1f3_1f1e8|Yeni Kaledonya Bayrağı
+bayrak_1f1f3_1f1ea|Nijer Bayrağı
+bayrak_1f1f3_1f1eb|Norfolk Adası Bayrağı
+bayrak_1f1f3_1f1ec|Nijerya Bayrağı
+bayrak_1f1f3_1f1ee|Nikaragua Bayrağı
+bayrak_1f1f3_1f1f1|Hollanda Bayrağı
+bayrak_1f1f3_1f1f4|Norveç Bayrağı
+bayrak_1f1f3_1f1f5|Nepal Bayrağı
+bayrak_1f1f3_1f1f7|Nauru Bayrağı
+bayrak_1f1f3_1f1fa|Niue Bayrağı
+bayrak_1f1f3_1f1ff|Yeni Zelanda Bayrağı
+bayrak_1f1f4_1f1f2|Umman Bayrağı
+bayrak_1f1f5_1f1e6|Panama Bayrağı
+bayrak_1f1f5_1f1ea|Peru Bayrağı
+bayrak_1f1f5_1f1eb|Fransız Polinezyası Bayrağı
+bayrak_1f1f5_1f1ec|Papua Yeni Gine Bayrağı
+bayrak_1f1f5_1f1ed|Filipinler Bayrağı
+bayrak_1f1f5_1f1f0|Pakistan Bayrağı
+bayrak_1f1f5_1f1f1|Polonya Bayrağı
+bayrak_1f1f5_1f1f2|Saint Pierre ve Miquelon Bayrağı
+bayrak_1f1f5_1f1f3|Pitcairn Adaları Bayrağı
+bayrak_1f1f5_1f1f7|Porto Riko Bayrağı
+bayrak_1f1f5_1f1f8|Filistin Bölgeleri Bayrağı
+bayrak_1f1f5_1f1f9|Portekiz Bayrağı
+bayrak_1f1f5_1f1fc|Palau Bayrağı
+bayrak_1f1f5_1f1fe|Paraguay Bayrağı
+bayrak_1f1f6_1f1e6|Katar Bayrağı
+bayrak_1f1f7_1f1ea|Reunion Bayrağı
+bayrak_1f1f7_1f1f4|Romanya Bayrağı
+bayrak_1f1f7_1f1f8|Sırbistan Bayrağı
+bayrak_1f1f7_1f1fa|Rusya Bayrağı
+bayrak_1f1f7_1f1fc|Ruanda Bayrağı
+bayrak_1f1f8_1f1e6|Suudi Arabistan Bayrağı
+bayrak_1f1f8_1f1e7|Solomon Adaları Bayrağı
+bayrak_1f1f8_1f1e8|Seyşeller Bayrağı
+bayrak_1f1f8_1f1e9|Sudan Bayrağı
+bayrak_1f1f8_1f1ea|İsveç Bayrağı
+bayrak_1f1f8_1f1ec|Singapur Bayrağı
+bayrak_1f1f8_1f1ed|Saint Helena Bayrağı
+bayrak_1f1f8_1f1ee|Slovenya Bayrağı
+bayrak_1f1f8_1f1ef|Svalbard ve Jan Mayen Bayrağı
+bayrak_1f1f8_1f1f0|Slovakya Bayrağı
+bayrak_1f1f8_1f1f1|Sierra Leone Bayrağı
+bayrak_1f1f8_1f1f2|San Marino Bayrağı
+bayrak_1f1f8_1f1f3|Senegal Bayrağı
+bayrak_1f1f8_1f1f4|Somali Bayrağı
+bayrak_1f1f8_1f1f7|Surinam Bayrağı
+bayrak_1f1f8_1f1f8|Güney Sudan Bayrağı
+bayrak_1f1f8_1f1f9|Sao Tome ve Principe Bayrağı
+bayrak_1f1f8_1f1fb|El Salvador Bayrağı
+bayrak_1f1f8_1f1fd|Sint Maarten Bayrağı
+bayrak_1f1f8_1f1fe|Suriye Bayrağı
+bayrak_1f1f8_1f1ff|Esvatini Bayrağı
+bayrak_1f1f9_1f1e6|Tristan da Cunha Bayrağı
+bayrak_1f1f9_1f1e8|Turks ve Caicos Adaları Bayrağı
+bayrak_1f1f9_1f1e9|Çad Bayrağı
+bayrak_1f1f9_1f1eb|Fransız Güney Toprakları Bayrağı
+bayrak_1f1f9_1f1ec|Togo Bayrağı
+bayrak_1f1f9_1f1ed|Tayland Bayrağı
+bayrak_1f1f9_1f1ef|Tacikistan Bayrağı
+bayrak_1f1f9_1f1f0|Tokelau Bayrağı
+bayrak_1f1f9_1f1f1|Timor-Leste Bayrağı
+bayrak_1f1f9_1f1f2|Türkmenistan Bayrağı
+bayrak_1f1f9_1f1f3|Tunus Bayrağı
+bayrak_1f1f9_1f1f4|Tonga Bayrağı
+bayrak_1f1f9_1f1f7|Türkiye Bayrağı
+bayrak_1f1f9_1f1f9|Trinidad ve Tobago Bayrağı
+bayrak_1f1f9_1f1fb|Tuvalu Bayrağı
+bayrak_1f1f9_1f1fc|Tayvan Bayrağı
+bayrak_1f1f9_1f1ff|Tanzanya Bayrağı
+bayrak_1f1fa_1f1e6|Ukrayna Bayrağı
+bayrak_1f1fa_1f1ec|Uganda Bayrağı
+bayrak_1f1fa_1f1f2|ABD Küçük Harici Adaları Bayrağı
+bayrak_1f1fa_1f1f3|Birleşmiş Milletler Bayrağı
+bayrak_1f1fa_1f1f8|Amerika Birleşik Devletleri Bayrağı
+bayrak_1f1fa_1f1fe|Uruguay Bayrağı
+bayrak_1f1fa_1f1ff|Özbekistan Bayrağı
+bayrak_1f1fb_1f1e6|Vatikan Bayrağı
+bayrak_1f1fb_1f1e8|Saint Vincent ve Grenadinler Bayrağı
+bayrak_1f1fb_1f1ea|Venezuela Bayrağı
+bayrak_1f1fb_1f1ec|Britanya Virjin Adaları Bayrağı
+bayrak_1f1fb_1f1ee|ABD Virjin Adaları Bayrağı
+bayrak_1f1fb_1f1f3|Vietnam Bayrağı
+bayrak_1f1fb_1f1fa|Vanuatu Bayrağı
+bayrak_1f1fc_1f1eb|Wallis ve Futuna Bayrağı
+bayrak_1f1fc_1f1f8|Samoa Bayrağı
+bayrak_1f1fd_1f1f0|Kosova Bayrağı
+bayrak_1f1fe_1f1ea|Yemen Bayrağı
+bayrak_1f1fe_1f1f9|Mayotte Bayrağı
+bayrak_1f1ff_1f1e6|Güney Afrika Bayrağı
+bayrak_1f1ff_1f1f2|Zambiya Bayrağı
+bayrak_1f1ff_1f1fc|Zimbabve Bayrağı
+bayrak_1f3f4_e0067_e0062_e0065_e006e_e0067_e007f|England Flag
+bayrak_1f3f4_e0067_e0062_e0073_e0063_e0074_e007f|Scotland Flag
+bayrak_1f3f4_e0067_e0062_e0077_e006c_e0073_e007f|Wales Flag
