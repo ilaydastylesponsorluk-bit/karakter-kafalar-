@@ -1,5 +1,22 @@
 {
   "itemGroup.karakterkafalari": "Karakter Kafaları",
   "block.karakterkafalari.koylu_kafa": "Köylü Kafa",
-  "block.karakterkafalari.mavi_kiz_kafa": "Mavi Saçlı Kız Kafa"
+  "block.karakterkafalari.mavi_kiz_kafa": "Mavi Saçlı Kız Kafa",
+  "block.karakterkafalari.beyaz_gozlu_kafa": "Beyaz Gözlü Kafa",
+  "block.karakterkafalari.salak_surat_kafa": "Salak Surat Kafa",
+  "block.karakterkafalari.iskelet_surat_kafa": "İskelet Surat Kafa",
+  "block.karakterkafalari.maske_kafa": "Maske Kafa",
+  "block.karakterkafalari.korku_kafa": "Korku Kafa (Tuzak)",
+  "entity.karakterkafalari.koylu": "Köylü",
+  "item.karakterkafalari.koylu_yumurta": "Köylü Yumurtası",
+  "entity.karakterkafalari.mavi_kiz": "Mavi Saçlı Kız",
+  "item.karakterkafalari.mavi_kiz_yumurta": "Mavi Saçlı Kız Yumurtası",
+  "entity.karakterkafalari.beyaz_gozlu": "Beyaz Gözlü",
+  "item.karakterkafalari.beyaz_gozlu_yumurta": "Beyaz Gözlü Yumurtası",
+  "entity.karakterkafalari.salak_surat": "Salak Surat",
+  "item.karakterkafalari.salak_surat_yumurta": "Salak Surat Yumurtası",
+  "entity.karakterkafalari.iskelet_surat": "İskelet Surat",
+  "item.karakterkafalari.iskelet_surat_yumurta": "İskelet Surat Yumurtası",
+  "entity.karakterkafalari.maske": "Maske",
+  "item.karakterkafalari.maske_yumurta": "Maske Yumurtası"
 }

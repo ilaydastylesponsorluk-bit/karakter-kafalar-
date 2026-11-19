@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "karakterkafalari:beyaz_gozlu_kafa"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    }
+  ],
+  "result": {
+    "id": "karakterkafalari:korku_kafa",
+    "count": 1
+  }
+}

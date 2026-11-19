@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "WWW",
+    "WXW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "X": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "id": "karakterkafalari:iskelet_surat_kafa",
+    "count": 1
+  }
+}

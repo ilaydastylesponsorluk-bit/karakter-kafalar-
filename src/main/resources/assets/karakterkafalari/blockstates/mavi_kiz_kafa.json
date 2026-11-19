@@ -1,8 +1,19 @@
 {
   "variants": {
-    "facing=north": { "model": "karakterkafalari:block/mavi_kiz_kafa" },
-    "facing=east":  { "model": "karakterkafalari:block/mavi_kiz_kafa", "y": 90 },
-    "facing=south": { "model": "karakterkafalari:block/mavi_kiz_kafa", "y": 180 },
-    "facing=west":  { "model": "karakterkafalari:block/mavi_kiz_kafa", "y": 270 }
+    "facing=north": {
+      "model": "karakterkafalari:block/mavi_kiz_kafa"
+    },
+    "facing=east": {
+      "model": "karakterkafalari:block/mavi_kiz_kafa",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "karakterkafalari:block/mavi_kiz_kafa",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "karakterkafalari:block/mavi_kiz_kafa",
+      "y": 270
+    }
   }
 }

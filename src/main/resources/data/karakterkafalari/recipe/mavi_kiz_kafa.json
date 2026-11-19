@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "WWW",
+    "WXW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "X": {
+      "item": "minecraft:light_blue_dye"
+    }
+  },
+  "result": {
+    "id": "karakterkafalari:mavi_kiz_kafa",
+    "count": 1
+  }
+}

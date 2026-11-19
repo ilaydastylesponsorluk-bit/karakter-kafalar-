@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "karakterkafalari:block/maske_kafa"
+    },
+    "facing=east": {
+      "model": "karakterkafalari:block/maske_kafa",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "karakterkafalari:block/maske_kafa",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "karakterkafalari:block/maske_kafa",
+      "y": 270
+    }
+  }
+}

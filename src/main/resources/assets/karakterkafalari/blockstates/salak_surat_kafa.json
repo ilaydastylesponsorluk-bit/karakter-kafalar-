@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "karakterkafalari:block/salak_surat_kafa"
+    },
+    "facing=east": {
+      "model": "karakterkafalari:block/salak_surat_kafa",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "karakterkafalari:block/salak_surat_kafa",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "karakterkafalari:block/salak_surat_kafa",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "WWW",
+    "WXW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "X": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "id": "karakterkafalari:beyaz_gozlu_kafa",
+    "count": 1
+  }
+}

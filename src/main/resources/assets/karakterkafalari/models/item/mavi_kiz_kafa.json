@@ -1,1 +1,3 @@
-{ "parent": "karakterkafalari:block/mavi_kiz_kafa" }
+{
+  "parent": "karakterkafalari:block/mavi_kiz_kafa"
+}
